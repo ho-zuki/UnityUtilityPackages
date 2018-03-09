@@ -1,1 +1,2 @@
 # UnityUtilityPackages
+鬼灯がよく作るゲームに使うスクリプトが入ったパッケージです
